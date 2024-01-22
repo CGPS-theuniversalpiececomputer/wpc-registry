@@ -1,0 +1,4 @@
+baseURL = 'https://registry.wp.computer/'
+languageCode = 'en-us'
+title = 'world piece computer registry'
+theme = 'hugo-book'
